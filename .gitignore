@@ -1,0 +1,8 @@
+/node_modules
+/build
+bs-config.json
+.secret
+.vscode
+.DS_Store
+.bscapikey
+package-lock.json
